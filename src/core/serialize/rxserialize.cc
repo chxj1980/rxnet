@@ -15,4 +15,3 @@ rxserialize::~rxserialize()
 }
 
 				
-#endif
